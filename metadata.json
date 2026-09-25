@@ -1,0 +1,6 @@
+{
+  "name": "StudyPath — 10th Tamil Medium",
+  "description": "Comprehensive 10th Tamil Medium learning architecture with Iyal curriculum maps, Sol Porul interactive dictionary, Audio Recitations, Grammar Practice engine, Timed Unit Exams, and Gamification suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
